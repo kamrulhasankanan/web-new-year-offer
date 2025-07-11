@@ -1,0 +1,77 @@
+/* font styles */
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.merriweather-normal {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* header styles */
+header{
+    background-image: url(../images/banner.png);
+    height: 600px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.banner-container{
+    text-align: center;
+    padding: 177px 344px;
+    
+}
+.banner-title-1{
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-bottom: 0px;
+    font-weight: 400;
+}
+.banner-title-2{
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 0px;
+    font-weight: 900;
+}
+/* shared styles */
+.text-primary{
+    text-align: center;
+}
+
+.text-secondary{
+    text-align: left;
+    padding: 126px;
+}
+
+/* discount styles */
+.discount{
+    margin: 120px 259px;
+}
+
+.discount-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.discount-sub-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000 ;
+}
+.discount-sub-2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+/* mid night party styles */
+.mid-night-party{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
